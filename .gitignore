@@ -1,6 +1,5 @@
 node_modules
 *.log
-lib
 coverage
 mobx-utils.umd.js
 .idea
